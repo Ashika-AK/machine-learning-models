@@ -2,11 +2,11 @@
 This repository contains a collection of machine learning projects, each focused on model training and evaluation. 
 
 #Projects Included
-Breast_cancer_classification
-Customer_churn_prediction
-Diabetics_prediction
-Spam_email_detection
-Credit_card_fraud_detection
+Breast_cancer_classification,
+Customer_churn_prediction,
+Diabetics_prediction,
+Spam_email_detection,
+Credit_card_fraud_detection,
 Spam_sms_detection
 
 #Workflow
